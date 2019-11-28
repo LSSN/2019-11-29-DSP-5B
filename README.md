@@ -8,6 +8,6 @@ Si possono utilizzare gli [appunti di faust](https://github.com/LSSN/dsp-appunti
 
 ## Istruzioni
 
-Compilare la verifica modificando direttamente il file `2019-11-22-3A-DSP.md`.
+Compilare la verifica modificando direttamente il file `2019-11-29-DSP-5B.md`.
 
 Premere `Commit` al termine di ogni risposta effettuata.
